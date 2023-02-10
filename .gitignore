@@ -1,3 +1,4 @@
 log/
 ignored.txt
 *.html
+.idea
